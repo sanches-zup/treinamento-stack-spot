@@ -1,0 +1,6 @@
+type: app
+description: apenas um teste
+# template used to create the project
+template: hands-on-treinamento/base-template
+plugins:
+  - plugin: hands-on-treinamento/add-some-function

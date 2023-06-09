@@ -1,0 +1,13 @@
+name: base-template
+description: testar o stack spot
+types:
+  - app-template
+inputs:
+  - label: Project name
+    type: text
+    name: project_name
+    default: project-name
+    global: true
+  - label: Parametro 1
+    type: text
+    name: param1    

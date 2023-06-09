@@ -1,0 +1,4 @@
+Esse é um arquivo apenas para testar a funcionalidade de interpolação do StackSpot
+
+Esse conteúdo aqui -> {{param1}} <- foi gerado via template
+Esse conteúdo aqui -> {{param1 | upper}} <- foi gerado via template, só que com uper case
